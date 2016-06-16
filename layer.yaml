@@ -1,0 +1,3 @@
+includes: ['layer:ceph-base', 'layer:leadership', 'interface:ceph', 'interface:ceph-client',
+  'interface:ceph-osd']
+# repo: git@git.cmacinfo.com:charm-stuff/juju-layer-ceph-mon.git
